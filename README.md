@@ -23,19 +23,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criando um video utilizando IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Vidnoz AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Na IA de criação foi selecionado um texto, um personagem e um fundo de tela.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um video curto que mostra o potencial de criação de videos mais complexos e elaborados.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com o uso das IA em areas como video texto ou imagem
+
+https://github.com/Mqabq/lab-natty-or-not/assets/148398709/63eff2a6-24a4-4170-93da-2168615b9696
+
+ as possibilidades são infinitas na criação.
 ```
 
 ### Exemplos e Insigths
